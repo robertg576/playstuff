@@ -1,0 +1,23 @@
+{
+  "url": "https://docs.ns-api.com/reference/get_phones-mac",
+  "title": "Read Specific Mac Address",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Read Specific Mac Address"
+    },
+    {
+      "level": 2,
+      "text": "NetSapiens API v2"
+    },
+    {
+      "level": 6,
+      "text": "Start typing to search\u2026"
+    }
+  ],
+  "code_blocks_count": 1,
+  "word_count": 2333,
+  "saved_html": "reference_get_phones-mac_ed286e524d0a3c18.html",
+  "saved_markdown": "reference_get_phones-mac_ed286e524d0a3c18.md",
+  "saved_json": "reference_get_phones-mac_ed286e524d0a3c18.json"
+}

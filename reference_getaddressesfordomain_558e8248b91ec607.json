@@ -1,0 +1,23 @@
+{
+  "url": "https://docs.ns-api.com/reference/getaddressesfordomain",
+  "title": "Get Addresses for Domain",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Get Addresses for Domain"
+    },
+    {
+      "level": 2,
+      "text": "NetSapiens API v2"
+    },
+    {
+      "level": 6,
+      "text": "Start typing to search\u2026"
+    }
+  ],
+  "code_blocks_count": 1,
+  "word_count": 2334,
+  "saved_html": "reference_getaddressesfordomain_558e8248b91ec607.html",
+  "saved_markdown": "reference_getaddressesfordomain_558e8248b91ec607.md",
+  "saved_json": "reference_getaddressesfordomain_558e8248b91ec607.json"
+}

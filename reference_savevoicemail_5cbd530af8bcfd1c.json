@@ -1,0 +1,23 @@
+{
+  "url": "https://docs.ns-api.com/reference/savevoicemail",
+  "title": "Move Voicemail to save folder",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Move Voicemail to save folder"
+    },
+    {
+      "level": 2,
+      "text": "NetSapiens API v2"
+    },
+    {
+      "level": 6,
+      "text": "Start typing to search\u2026"
+    }
+  ],
+  "code_blocks_count": 1,
+  "word_count": 2343,
+  "saved_html": "reference_savevoicemail_5cbd530af8bcfd1c.html",
+  "saved_markdown": "reference_savevoicemail_5cbd530af8bcfd1c.md",
+  "saved_json": "reference_savevoicemail_5cbd530af8bcfd1c.json"
+}

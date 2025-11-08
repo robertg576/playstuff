@@ -1,0 +1,3 @@
+method,path,group,title,file,source,score,id
+GET,/ns-api/v2/domains/{domain}/users/{user}/number/filters,numbers,reference_get_domains-domain-users-user-number-filters_3f2200f19271b212,reference_get_domains-domain-users-user-number-filters_3f2200f19271b212.md,filename,67,54fd904a0f217faa
+GET,/ns-api/v2/domains/{domain}/number/filters,numbers,reference_get_domains-domain-number-filters_73cf1cf607ba87aa,reference_get_domains-domain-number-filters_73cf1cf607ba87aa.md,filename,65,89d2eaa5f1a6269a

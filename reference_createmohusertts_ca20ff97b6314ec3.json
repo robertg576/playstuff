@@ -1,0 +1,23 @@
+{
+  "url": "https://docs.ns-api.com/reference/createmohusertts",
+  "title": "Create a new MOH for Domain from TTS",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Create a new MOH for Domain from TTS"
+    },
+    {
+      "level": 2,
+      "text": "NetSapiens API v2"
+    },
+    {
+      "level": 6,
+      "text": "Start typing to search\u2026"
+    }
+  ],
+  "code_blocks_count": 1,
+  "word_count": 2348,
+  "saved_html": "reference_createmohusertts_ca20ff97b6314ec3.html",
+  "saved_markdown": "reference_createmohusertts_ca20ff97b6314ec3.md",
+  "saved_json": "reference_createmohusertts_ca20ff97b6314ec3.json"
+}

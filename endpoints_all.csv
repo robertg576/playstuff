@@ -1,0 +1,31 @@
+method,path,group,title,file,source,score,id
+GET,/ns-api/v2/domains/{domain}/users/{user}/contacts/contact/id,domains,reference_get_domains-domain-users-user-contacts-contact-id_34ea988e36c9cc20,reference_get_domains-domain-users-user-contacts-contact-id_34ea988e36c9cc20.md,filename,69,95f48f43d4fb983f
+GET,/ns-api/v2/domains/{domain}/users/{user}/meetings/count,domains,reference_get_domains-domain-users-user-meetings-count_7ea9a08845c1af0d,reference_get_domains-domain-users-user-meetings-count_7ea9a08845c1af0d.md,filename,67,2efd18cf0f4a08b8
+GET,/ns-api/v2/domains/{domain}/users/{user}/number/filters,numbers,reference_get_domains-domain-users-user-number-filters_3f2200f19271b212,reference_get_domains-domain-users-user-number-filters_3f2200f19271b212.md,filename,67,54fd904a0f217faa
+POST,/ns-api/v2/domains/{domain}/users/{user}/meetings/id,domains,reference_post_domains-domain-users-user-meetings-id_5827ab0bdb248683,reference_post_domains-domain-users-user-meetings-id_5827ab0bdb248683.md,filename,67,a9ef8f5e473c0b03
+POST,/ns-api/v2/domains/{domain}/users/{user}/meetings,domains,reference_post_domains-domain-users-user-meetings_9af5279308aa19fd,reference_post_domains-domain-users-user-meetings_9af5279308aa19fd.md,filename,66,31b2bf057575d905
+GET,/ns-api/v2/domains/{domain}/number/filters,numbers,reference_get_domains-domain-number-filters_73cf1cf607ba87aa,reference_get_domains-domain-number-filters_73cf1cf607ba87aa.md,filename,65,89d2eaa5f1a6269a
+GET,/ns-api/v2/domains/{domain}/users/{user}/video,domains,reference_get_domains-domain-users-user-video_5872d0022eaacf6a,reference_get_domains-domain-users-user-video_5872d0022eaacf6a.md,filename,65,b3e032d9f8b0146f
+POST,/ns-api/v2/domains/{domain}/timeframes/id,domains,Create Additional Date Ranges within Specific Dates Timeframe,reference_post_domains-domain-timeframes-id_49b3dc50201438cf.html,filename,65,a65a1041dee5d3b2
+GET,/ns-api/v2/domains/{domain}/cdrs/count,domains,reference_get_domains-domain-cdrs-count_41d2bf0746583480,reference_get_domains-domain-cdrs-count_41d2bf0746583480.md,filename,64,f7bfa22e7e192748
+GET,/ns-api/v2/domains/{domain}/timeframes,domains,reference_get_domains-domain-timeframes_630385dd56392b38,reference_get_domains-domain-timeframes_630385dd56392b38.md,filename,64,6664708f50bc4872
+GET,/ns-api/v2/domains/{domain}/cdrs/1,domains,reference_get_domains-domain-cdrs-1_38732fa31403cb1e,reference_get_domains-domain-cdrs-1_38732fa31403cb1e.md,filename,63,db730b881fb59b55
+GET,/ns-api/v2/domains/{domain}/phones,phones,reference_get_domains-domain-phones_4569173bf140c3f6,reference_get_domains-domain-phones_4569173bf140c3f6.md,filename,63,3e09865ecbb95212
+POST,/ns-api/v2/domains/{domain}/backup,domains,reference_post_domains-domain-backup_e560eb1b00439b14,reference_post_domains-domain-backup_e560eb1b00439b14.md,filename,63,0727db6fa8ab4660
+GET,/ns-api/v2/certificates/name,other,reference_get_certificates-name_96cf259f199bb17a,reference_get_certificates-name_96cf259f199bb17a.md,filename,62,dd92e98bf60600c3
+POST,/ns-api/v2/domains/{domain}/timeframes/id/1,domains,Create Additional Holidays within Holiday Timeframe,reference_post_domains-domain-timeframes-id-1_11dbf9761a462050.html,filename,62,7b09a5cc2a2c4c8b
+POST,/ns-api/v2/domains/{domain}/users/{user}/timeframes/id/1,domains,Create Additional Holidays within Holiday Timeframe,reference_post_domains-domain-users-user-timeframes-id-1_0e8b5608a75d55f5.html,filename,62,33f0fdbea48f5adf
+POST,/ns-api/v2/domains/{domain}/users/{user}/timeframes/id/2,domains,Create Additional Entries within Custom Timeframe,reference_post_domains-domain-users-user-timeframes-id-2_1dd234ff3b656782.md,filename,62,060687b0447b91e9
+PUT,/ns-api/v2/domains/{domain}/users/{user}/timeframes/id,domains,Replace All Date Ranges in Specific Dates Timeframe,reference_put_domains-domain-users-user-timeframes-id_194fb8ed67570880.md,filename,62,7e005e9075e75897
+DELETE,/ns-api/v2/domains/{domain}/timeframes/id/3,domains,Delete Specific Timeframe for Domain (Shared),reference_delete_domains-domain-timeframes-id-3_925b77f0b5b1bce0.md,filename,61,6756e2ab131ff9e6
+GET,/ns-api/v2/cdrs/count,cdr,reference_get_cdrs-count_e1b7fd87718f34e8,reference_get_cdrs-count_e1b7fd87718f34e8.md,filename,60,bd83fe2a38c4b601
+GET,/ns-api/v2/phones/mac,phones,reference_get_phones-mac_ed286e524d0a3c18,reference_get_phones-mac_ed286e524d0a3c18.md,filename,60,8f2950058b07f27a
+POST,/ns-api/v2/tokens/1,other,reference_post_tokens-1_f75dde34e0f819f9,reference_post_tokens-1_f75dde34e0f819f9.md,filename,60,5600c5dfec7393bf
+DELETE,/ns-api/v2/domains/{domain}/timeframes/id/2,domains,Delete Entry within Custom Timeframe,reference_delete_domains-domain-timeframes-id-2_374b5c73308eec81.md,filename,59,8379fc4b5e83240f
+GET,/ns-api/v2/routecon,other,reference_get_routecon_375397e7ea534a26,reference_get_routecon_375397e7ea534a26.md,filename,59,84a739c1390be9d7
+GET,/ns-api/v2/version,other,reference_get_version_c6196b4b87ce361a,reference_get_version_c6196b4b87ce361a.md,filename,59,07cacc5a60265f38
+POST,/ns-api/v2/backup,other,reference_post_backup_17748a09d177aadc,reference_post_backup_17748a09d177aadc.md,filename,59,d46a0681872f806c
+GET,/ns-api/v2/cdrs,cdr,reference_get_cdrs_8f1be6e4d5473438,reference_get_cdrs_8f1be6e4d5473438.md,filename,58,19e86828b69e3861
+GET,/ns-api/v2/holidays/countries,other,Read List of Supported Countries,reference_get_holidays-countries_740cdccb0d4aaab9.html,filename,58,fd146b2c03ea6c4a
+GET,/ns-api/v2/jwt,other,reference_get_jwt_3fa3848d7fb8d97d,reference_get_jwt_3fa3848d7fb8d97d.md,filename,58,6a088fac9d6da947
+PUT,/ns-api/v2/domains/{domain}/users/{user}/answerrules/reorder,domains,Reorder Answerrules for my User,reference_put_domains-domain-users-user-answerrules-reorder_ad468eaddcf0bad9.html,filename,57,5fbb349739695d63

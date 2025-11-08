@@ -1,0 +1,23 @@
+{
+  "url": "https://docs.ns-api.com/reference/sendmessagemms",
+  "title": "Send a message (MMS)",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Send a message (MMS)"
+    },
+    {
+      "level": 2,
+      "text": "NetSapiens API v2"
+    },
+    {
+      "level": 6,
+      "text": "Start typing to search\u2026"
+    }
+  ],
+  "code_blocks_count": 1,
+  "word_count": 2356,
+  "saved_html": "reference_sendmessagemms_90427f0349758a29.html",
+  "saved_markdown": "reference_sendmessagemms_90427f0349758a29.md",
+  "saved_json": "reference_sendmessagemms_90427f0349758a29.json"
+}

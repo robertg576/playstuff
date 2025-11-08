@@ -1,0 +1,23 @@
+{
+  "url": "https://docs.ns-api.com/reference/createtemplatebase64",
+  "title": "Create Template from Upload (JSON + Base64 File)",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Create Template from Upload (JSON + Base64 File)"
+    },
+    {
+      "level": 2,
+      "text": "NetSapiens API v2"
+    },
+    {
+      "level": 6,
+      "text": "Start typing to search\u2026"
+    }
+  ],
+  "code_blocks_count": 1,
+  "word_count": 2349,
+  "saved_html": "reference_createtemplatebase64_65e406b438bce301.html",
+  "saved_markdown": "reference_createtemplatebase64_65e406b438bce301.md",
+  "saved_json": "reference_createtemplatebase64_65e406b438bce301.json"
+}

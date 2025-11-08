@@ -1,0 +1,23 @@
+{
+  "url": "https://docs.ns-api.com/reference/readdialrule",
+  "title": "Read Specific Dialrule in a Dialplan",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Read Specific Dialrule in a Dialplan"
+    },
+    {
+      "level": 2,
+      "text": "NetSapiens API v2"
+    },
+    {
+      "level": 6,
+      "text": "Start typing to search\u2026"
+    }
+  ],
+  "code_blocks_count": 1,
+  "word_count": 2343,
+  "saved_html": "reference_readdialrule_b6f532ca4982558b.html",
+  "saved_markdown": "reference_readdialrule_b6f532ca4982558b.md",
+  "saved_json": "reference_readdialrule_b6f532ca4982558b.json"
+}

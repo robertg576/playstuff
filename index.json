@@ -1,0 +1,2146 @@
+{
+  "pages": [
+    {
+      "url": "https://docs.ns-api.com/docs/getting-started",
+      "title": "Authentication Overview",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Authentication Overview"
+        },
+        {
+          "level": 2,
+          "text": "Authentication"
+        },
+        {
+          "level": 2,
+          "text": "Guides"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 0,
+      "word_count": 270,
+      "saved_html": "docs_getting-started_62259beba3990074.html",
+      "saved_markdown": "docs_getting-started_62259beba3990074.md",
+      "saved_json": "docs_getting-started_62259beba3990074.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/docs/api-keys",
+      "title": "API Keys",
+      "headings": [
+        {
+          "level": 1,
+          "text": "API Keys"
+        },
+        {
+          "level": 2,
+          "text": "Authentication"
+        },
+        {
+          "level": 2,
+          "text": "Guides"
+        },
+        {
+          "level": 2,
+          "text": "Overview"
+        },
+        {
+          "level": 2,
+          "text": "Key Format"
+        },
+        {
+          "level": 2,
+          "text": "Key Usage"
+        },
+        {
+          "level": 2,
+          "text": "Key Storage"
+        },
+        {
+          "level": 2,
+          "text": "Key ID"
+        },
+        {
+          "level": 2,
+          "text": "Read Only"
+        },
+        {
+          "level": 2,
+          "text": "Revoking Access"
+        },
+        {
+          "level": 2,
+          "text": "Tracking Usage"
+        },
+        {
+          "level": 2,
+          "text": "Known Limitations"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 764,
+      "saved_html": "docs_api-keys_48e90b1ef991ea84.html",
+      "saved_markdown": "docs_api-keys_48e90b1ef991ea84.md",
+      "saved_json": "docs_api-keys_48e90b1ef991ea84.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/docs/using-docsns-apicom",
+      "title": "Using docs.ns-api.com",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Using docs.ns-api.com"
+        },
+        {
+          "level": 2,
+          "text": "Authentication"
+        },
+        {
+          "level": 2,
+          "text": "Guides"
+        },
+        {
+          "level": 2,
+          "text": "Setting Up Server Connection and Authentication"
+        },
+        {
+          "level": 3,
+          "text": "Step 1: Configure Server Connection"
+        },
+        {
+          "level": 3,
+          "text": "Step 2: Authenticate for Access"
+        },
+        {
+          "level": 4,
+          "text": "Example:"
+        },
+        {
+          "level": 4,
+          "text": "Example:"
+        },
+        {
+          "level": 4,
+          "text": "Example:"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 0,
+      "word_count": 339,
+      "saved_html": "docs_using-docsns-apicom_be9ab8c1a64bf682.html",
+      "saved_markdown": "docs_using-docsns-apicom_be9ab8c1a64bf682.md",
+      "saved_json": "docs_using-docsns-apicom_be9ab8c1a64bf682.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/docs/v1-migration-to-v2",
+      "title": "v1 Migration to v2",
+      "headings": [
+        {
+          "level": 1,
+          "text": "v1 Migration to v2"
+        },
+        {
+          "level": 2,
+          "text": "Authentication"
+        },
+        {
+          "level": 2,
+          "text": "Guides"
+        },
+        {
+          "level": 2,
+          "text": "General Changes"
+        },
+        {
+          "level": 2,
+          "text": "Domains"
+        },
+        {
+          "level": 2,
+          "text": "User"
+        },
+        {
+          "level": 2,
+          "text": "Time Frames"
+        },
+        {
+          "level": 2,
+          "text": "Answer Rule"
+        },
+        {
+          "level": 2,
+          "text": "Device"
+        },
+        {
+          "level": 2,
+          "text": "Reseller"
+        },
+        {
+          "level": 2,
+          "text": "Call Queues"
+        },
+        {
+          "level": 2,
+          "text": "Agents"
+        },
+        {
+          "level": 2,
+          "text": "Phone Numbers"
+        },
+        {
+          "level": 2,
+          "text": "Media / Audio"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 0,
+      "word_count": 973,
+      "saved_html": "docs_v1-migration-to-v2_e0a2c79d35890ad0.html",
+      "saved_markdown": "docs_v1-migration-to-v2_e0a2c79d35890ad0.md",
+      "saved_json": "docs_v1-migration-to-v2_e0a2c79d35890ad0.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/get_version",
+      "title": "Read API Version",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Read API Version"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2326,
+      "saved_html": "reference_get_version_c6196b4b87ce361a.html",
+      "saved_markdown": "reference_get_version_c6196b4b87ce361a.md",
+      "saved_json": "reference_get_version_c6196b4b87ce361a.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/docs/application-mapping-in-phonenumbers-dialrules",
+      "title": "Application Mapping in Phonenumber's  & Dialrule's",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Application Mapping in Phonenumber's & Dialrule's"
+        },
+        {
+          "level": 2,
+          "text": "Authentication"
+        },
+        {
+          "level": 2,
+          "text": "Guides"
+        },
+        {
+          "level": 3,
+          "text": "Overview."
+        },
+        {
+          "level": 3,
+          "text": "Table Mapping and Description"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 0,
+      "word_count": 1009,
+      "saved_html": "docs_application-mapping-in-phonenumbers-dialrules_266572810fcf73e8.html",
+      "saved_markdown": "docs_application-mapping-in-phonenumbers-dialrules_266572810fcf73e8.md",
+      "saved_json": "docs_application-mapping-in-phonenumbers-dialrules_266572810fcf73e8.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/docs/async-202-vs-sync-200",
+      "title": "Async (202) vs. Sync (200)",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Async (202) vs. Sync (200)"
+        },
+        {
+          "level": 2,
+          "text": "Authentication"
+        },
+        {
+          "level": 2,
+          "text": "Guides"
+        },
+        {
+          "level": 4,
+          "text": "Current list of supported \"Create\" actions"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 0,
+      "word_count": 301,
+      "saved_html": "docs_async-202-vs-sync-200_1ac98205a4e244d3.html",
+      "saved_markdown": "docs_async-202-vs-sync-200_1ac98205a4e244d3.md",
+      "saved_json": "docs_async-202-vs-sync-200_1ac98205a4e244d3.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/deleteroutecon",
+      "title": "Delete A Specific Route connection",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Delete A Specific Route connection"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2335,
+      "saved_html": "reference_deleteroutecon_5c8f210f21b6f266.html",
+      "saved_markdown": "reference_deleteroutecon_5c8f210f21b6f266.md",
+      "saved_json": "reference_deleteroutecon_5c8f210f21b6f266.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/get_certificates-name",
+      "title": "Read SSL certificate by Common Name",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Read SSL certificate by Common Name"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2339,
+      "saved_html": "reference_get_certificates-name_96cf259f199bb17a.html",
+      "saved_markdown": "reference_get_certificates-name_96cf259f199bb17a.md",
+      "saved_json": "reference_get_certificates-name_96cf259f199bb17a.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/leavemessagesession",
+      "title": "Update Messagesession (Leave)",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Update Messagesession (Leave)"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2343,
+      "saved_html": "reference_leavemessagesession_789bdd0ec13b2121.html",
+      "saved_markdown": "reference_leavemessagesession_789bdd0ec13b2121.md",
+      "saved_json": "reference_leavemessagesession_789bdd0ec13b2121.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/get_domains-domain-cdrs-count",
+      "title": "Count CDRs and SUM minutes for Domain",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Count CDRs and SUM minutes for Domain"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2343,
+      "saved_html": "reference_get_domains-domain-cdrs-count_41d2bf0746583480.html",
+      "saved_markdown": "reference_get_domains-domain-cdrs-count_41d2bf0746583480.md",
+      "saved_json": "reference_get_domains-domain-cdrs-count_41d2bf0746583480.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/readagents",
+      "title": "Read Agents in Call Queue",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Read Agents in Call Queue"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2339,
+      "saved_html": "reference_readagents_1dea1058fd10c795.html",
+      "saved_markdown": "reference_readagents_1dea1058fd10c795.md",
+      "saved_json": "reference_readagents_1dea1058fd10c795.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/get_domains-domain-cdrs-1",
+      "title": "Read CDRs for Site in Domain",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Read CDRs for Site in Domain"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2340,
+      "saved_html": "reference_get_domains-domain-cdrs-1_38732fa31403cb1e.html",
+      "saved_markdown": "reference_get_domains-domain-cdrs-1_38732fa31403cb1e.md",
+      "saved_json": "reference_get_domains-domain-cdrs-1_38732fa31403cb1e.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/get_domains-domain-timeframes",
+      "title": "Read All Timeframes for Domain (Shared)",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Read All Timeframes for Domain (Shared)"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2340,
+      "saved_html": "reference_get_domains-domain-timeframes_630385dd56392b38.html",
+      "saved_markdown": "reference_get_domains-domain-timeframes_630385dd56392b38.md",
+      "saved_json": "reference_get_domains-domain-timeframes_630385dd56392b38.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/updateagent",
+      "title": "Update Agent in Call Queue",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Update Agent in Call Queue"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2340,
+      "saved_html": "reference_updateagent_3af0ba930e1a3d7a.html",
+      "saved_markdown": "reference_updateagent_3af0ba930e1a3d7a.md",
+      "saved_json": "reference_updateagent_3af0ba930e1a3d7a.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/get_domains-domain-users-user-video",
+      "title": "Read Iotum Video Host",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Read Iotum Video Host"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2340,
+      "saved_html": "reference_get_domains-domain-users-user-video_5872d0022eaacf6a.html",
+      "saved_markdown": "reference_get_domains-domain-users-user-video_5872d0022eaacf6a.md",
+      "saved_json": "reference_get_domains-domain-users-user-video_5872d0022eaacf6a.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/createdevice",
+      "title": "Create Device for User",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Create Device for User"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2336,
+      "saved_html": "reference_createdevice_cc95aaba7662117d.html",
+      "saved_markdown": "reference_createdevice_cc95aaba7662117d.md",
+      "saved_json": "reference_createdevice_cc95aaba7662117d.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/getspecificmodel",
+      "title": "Get details of Specific Model",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Get details of Specific Model"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2335,
+      "saved_html": "reference_getspecificmodel_bedc5b2a7db102a6.html",
+      "saved_markdown": "reference_getspecificmodel_bedc5b2a7db102a6.md",
+      "saved_json": "reference_getspecificmodel_bedc5b2a7db102a6.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/get_domains-domain-users-user-number-filters",
+      "title": "Read blocked numbers for a User",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Read blocked numbers for a User"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2342,
+      "saved_html": "reference_get_domains-domain-users-user-number-filters_3f2200f19271b212.html",
+      "saved_markdown": "reference_get_domains-domain-users-user-number-filters_3f2200f19271b212.md",
+      "saved_json": "reference_get_domains-domain-users-user-number-filters_3f2200f19271b212.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/createconnection",
+      "title": "Create a Connection",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Create a Connection"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2329,
+      "saved_html": "reference_createconnection_5c55037e74d5152a.html",
+      "saved_markdown": "reference_createconnection_5c55037e74d5152a.md",
+      "saved_json": "reference_createconnection_5c55037e74d5152a.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/deletemessagesession",
+      "title": "Delete Messagesession",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Delete Messagesession"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2331,
+      "saved_html": "reference_deletemessagesession_f6be86b23e450068.html",
+      "saved_markdown": "reference_deletemessagesession_f6be86b23e450068.md",
+      "saved_json": "reference_deletemessagesession_f6be86b23e450068.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/deleteaddressfordomain",
+      "title": "Delete Address For Domain",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Delete Address For Domain"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2335,
+      "saved_html": "reference_deleteaddressfordomain_c5668f60496aa999.html",
+      "saved_markdown": "reference_deleteaddressfordomain_c5668f60496aa999.md",
+      "saved_json": "reference_deleteaddressfordomain_c5668f60496aa999.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/get_routecon",
+      "title": "Read Route Connections",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Read Route Connections"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2329,
+      "saved_html": "reference_get_routecon_375397e7ea534a26.html",
+      "saved_markdown": "reference_get_routecon_375397e7ea534a26.md",
+      "saved_json": "reference_get_routecon_375397e7ea534a26.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/creategreetingfileupload",
+      "title": "Create a new Greeting from Upload (Multipart/Mixed Post)",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Create a new Greeting from Upload (Multipart/Mixed Post)"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2366,
+      "saved_html": "reference_creategreetingfileupload_a617c530fff3f328.html",
+      "saved_markdown": "reference_creategreetingfileupload_a617c530fff3f328.md",
+      "saved_json": "reference_creategreetingfileupload_a617c530fff3f328.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/sendmessagemms",
+      "title": "Send a message (MMS)",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Send a message (MMS)"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2356,
+      "saved_html": "reference_sendmessagemms_90427f0349758a29.html",
+      "saved_markdown": "reference_sendmessagemms_90427f0349758a29.md",
+      "saved_json": "reference_sendmessagemms_90427f0349758a29.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/get_domains-domain-users-user-contacts-contact-id",
+      "title": "Get Specific Contact for User",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Get Specific Contact for User"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2340,
+      "saved_html": "reference_get_domains-domain-users-user-contacts-contact-id_34ea988e36c9cc20.html",
+      "saved_markdown": "reference_get_domains-domain-users-user-contacts-contact-id_34ea988e36c9cc20.md",
+      "saved_json": "reference_get_domains-domain-users-user-contacts-contact-id_34ea988e36c9cc20.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/revokejwtbyuid",
+      "title": "Revoke JWT(s) by UID (user@domain)",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Revoke JWT(s) by UID (user@domain)"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2333,
+      "saved_html": "reference_revokejwtbyuid_28d195bb80d8c4af.html",
+      "saved_markdown": "reference_revokejwtbyuid_28d195bb80d8c4af.md",
+      "saved_json": "reference_revokejwtbyuid_28d195bb80d8c4af.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/readdialrule",
+      "title": "Read Specific Dialrule in a Dialplan",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Read Specific Dialrule in a Dialplan"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2343,
+      "saved_html": "reference_readdialrule_b6f532ca4982558b.html",
+      "saved_markdown": "reference_readdialrule_b6f532ca4982558b.md",
+      "saved_json": "reference_readdialrule_b6f532ca4982558b.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/getdomains",
+      "title": "Get Domains",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Get Domains"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2354,
+      "saved_html": "reference_getdomains_9a7a8fdd6abe5240.html",
+      "saved_markdown": "reference_getdomains_9a7a8fdd6abe5240.md",
+      "saved_json": "reference_getdomains_9a7a8fdd6abe5240.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/delete_domains-domain-timeframes-id-3",
+      "title": "Delete Specific Timeframe for Domain (Shared)",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Delete Specific Timeframe for Domain (Shared)"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2366,
+      "saved_html": "reference_delete_domains-domain-timeframes-id-3_925b77f0b5b1bce0.html",
+      "saved_markdown": "reference_delete_domains-domain-timeframes-id-3_925b77f0b5b1bce0.md",
+      "saved_json": "reference_delete_domains-domain-timeframes-id-3_925b77f0b5b1bce0.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/readgreeting",
+      "title": "Read Specific Greeting for User",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Read Specific Greeting for User"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2340,
+      "saved_html": "reference_readgreeting_70c0568fe605c289.html",
+      "saved_markdown": "reference_readgreeting_70c0568fe605c289.md",
+      "saved_json": "reference_readgreeting_70c0568fe605c289.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/readtemplate",
+      "title": "Read Template",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Read Template"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2331,
+      "saved_html": "reference_readtemplate_05c2077fdfa58d32.html",
+      "saved_markdown": "reference_readtemplate_05c2077fdfa58d32.md",
+      "saved_json": "reference_readtemplate_05c2077fdfa58d32.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/countdevices",
+      "title": "Count Devices for User",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Count Devices for User"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2336,
+      "saved_html": "reference_countdevices_da6718e6aa73ba62.html",
+      "saved_markdown": "reference_countdevices_da6718e6aa73ba62.md",
+      "saved_json": "reference_countdevices_da6718e6aa73ba62.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/readgreetings",
+      "title": "Read Greetings for User",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Read Greetings for User"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2336,
+      "saved_html": "reference_readgreetings_210e3f7a1fe136d1.html",
+      "saved_markdown": "reference_readgreetings_210e3f7a1fe136d1.md",
+      "saved_json": "reference_readgreetings_210e3f7a1fe136d1.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/sendemail",
+      "title": "Send Email using Template",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Send Email using Template"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2377,
+      "saved_html": "reference_sendemail_3db11d6eb38326d8.html",
+      "saved_markdown": "reference_sendemail_3db11d6eb38326d8.md",
+      "saved_json": "reference_sendemail_3db11d6eb38326d8.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/get_cdrs-count",
+      "title": "Count CDRs and SUM minutes",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Count CDRs and SUM minutes"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2335,
+      "saved_html": "reference_get_cdrs-count_e1b7fd87718f34e8.html",
+      "saved_markdown": "reference_get_cdrs-count_e1b7fd87718f34e8.md",
+      "saved_json": "reference_get_cdrs-count_e1b7fd87718f34e8.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/delete_domains-domain-timeframes-id-2",
+      "title": "Delete Entry within Custom Timeframe",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Delete Entry within Custom Timeframe"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2366,
+      "saved_html": "reference_delete_domains-domain-timeframes-id-2_374b5c73308eec81.html",
+      "saved_markdown": "reference_delete_domains-domain-timeframes-id-2_374b5c73308eec81.md",
+      "saved_json": "reference_delete_domains-domain-timeframes-id-2_374b5c73308eec81.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/deleteroute",
+      "title": "Delete A Specific Route",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Delete A Specific Route"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2332,
+      "saved_html": "reference_deleteroute_3a7047d3d8bf4afe.html",
+      "saved_markdown": "reference_deleteroute_3a7047d3d8bf4afe.md",
+      "saved_json": "reference_deleteroute_3a7047d3d8bf4afe.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/get_phones-mac",
+      "title": "Read Specific Mac Address",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Read Specific Mac Address"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2333,
+      "saved_html": "reference_get_phones-mac_ed286e524d0a3c18.html",
+      "saved_markdown": "reference_get_phones-mac_ed286e524d0a3c18.md",
+      "saved_json": "reference_get_phones-mac_ed286e524d0a3c18.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/post_backup",
+      "title": "Request a Full System backup",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Request a Full System backup"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2335,
+      "saved_html": "reference_post_backup_17748a09d177aadc.html",
+      "saved_markdown": "reference_post_backup_17748a09d177aadc.md",
+      "saved_json": "reference_post_backup_17748a09d177aadc.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/get_cdrs",
+      "title": "Read CDRs",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Read CDRs"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2326,
+      "saved_html": "reference_get_cdrs_8f1be6e4d5473438.html",
+      "saved_markdown": "reference_get_cdrs_8f1be6e4d5473438.md",
+      "saved_json": "reference_get_cdrs_8f1be6e4d5473438.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/getcalltrace",
+      "title": "Get CSV of call trace For Call",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Get CSV of call trace For Call"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2341,
+      "saved_html": "reference_getcalltrace_3af394ad9f08b46c.html",
+      "saved_markdown": "reference_getcalltrace_3af394ad9f08b46c.md",
+      "saved_json": "reference_getcalltrace_3af394ad9f08b46c.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/validateaddress",
+      "title": "Validate Address",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Validate Address"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2328,
+      "saved_html": "reference_validateaddress_fb516b7b534f1f21.html",
+      "saved_markdown": "reference_validateaddress_fb516b7b534f1f21.md",
+      "saved_json": "reference_validateaddress_fb516b7b534f1f21.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/createsmsnumber",
+      "title": "Create SMS Number",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Create SMS Number"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2331,
+      "saved_html": "reference_createsmsnumber_3dab8c6e61169bb3.html",
+      "saved_markdown": "reference_createsmsnumber_3dab8c6e61169bb3.md",
+      "saved_json": "reference_createsmsnumber_3dab8c6e61169bb3.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/createmohusertts",
+      "title": "Create a new MOH for Domain from TTS",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Create a new MOH for Domain from TTS"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2348,
+      "saved_html": "reference_createmohusertts_ca20ff97b6314ec3.html",
+      "saved_markdown": "reference_createmohusertts_ca20ff97b6314ec3.md",
+      "saved_json": "reference_createmohusertts_ca20ff97b6314ec3.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/readapikeys",
+      "title": "Read API Keys under your account",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Read API Keys under your account"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2380,
+      "saved_html": "reference_readapikeys_18fe99d01e539a83.html",
+      "saved_markdown": "reference_readapikeys_18fe99d01e539a83.md",
+      "saved_json": "reference_readapikeys_18fe99d01e539a83.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/getmessagesessionsforuser",
+      "title": "Get Messagesessions for User",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Get Messagesessions for User"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2336,
+      "saved_html": "reference_getmessagesessionsforuser_f617c9038179701c.html",
+      "saved_markdown": "reference_getmessagesessionsforuser_f617c9038179701c.md",
+      "saved_json": "reference_getmessagesessionsforuser_f617c9038179701c.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/post_domains-domain-timeframes-id-1",
+      "title": "Create Additional Holidays within Holiday Timeframe",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Create Additional Holidays within Holiday Timeframe"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2369,
+      "saved_html": "reference_post_domains-domain-timeframes-id-1_11dbf9761a462050.html",
+      "saved_markdown": "reference_post_domains-domain-timeframes-id-1_11dbf9761a462050.md",
+      "saved_json": "reference_post_domains-domain-timeframes-id-1_11dbf9761a462050.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/post_domains-domain-users-user-timeframes-id-2",
+      "title": "Create Additional Entries within Custom Timeframe",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Create Additional Entries within Custom Timeframe"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2371,
+      "saved_html": "reference_post_domains-domain-users-user-timeframes-id-2_1dd234ff3b656782.html",
+      "saved_markdown": "reference_post_domains-domain-users-user-timeframes-id-2_1dd234ff3b656782.md",
+      "saved_json": "reference_post_domains-domain-users-user-timeframes-id-2_1dd234ff3b656782.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/post_tokens-1",
+      "title": "Get Access Token From Refresh",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Get Access Token From Refresh"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2350,
+      "saved_html": "reference_post_tokens-1_f75dde34e0f819f9.html",
+      "saved_markdown": "reference_post_tokens-1_f75dde34e0f819f9.md",
+      "saved_json": "reference_post_tokens-1_f75dde34e0f819f9.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/post_domains-domain-backup",
+      "title": "Manually Backup a Domain",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Manually Backup a Domain"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2334,
+      "saved_html": "reference_post_domains-domain-backup_e560eb1b00439b14.html",
+      "saved_markdown": "reference_post_domains-domain-backup_e560eb1b00439b14.md",
+      "saved_json": "reference_post_domains-domain-backup_e560eb1b00439b14.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/put_domains-domain-users-user-timeframes-id",
+      "title": "Replace All Date Ranges in Specific Dates Timeframe",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Replace All Date Ranges in Specific Dates Timeframe"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2432,
+      "saved_html": "reference_put_domains-domain-users-user-timeframes-id_194fb8ed67570880.html",
+      "saved_markdown": "reference_put_domains-domain-users-user-timeframes-id_194fb8ed67570880.md",
+      "saved_json": "reference_put_domains-domain-users-user-timeframes-id_194fb8ed67570880.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/post_domains-domain-users-user-meetings",
+      "title": "Create a Meeting",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Create a Meeting"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2338,
+      "saved_html": "reference_post_domains-domain-users-user-meetings_9af5279308aa19fd.html",
+      "saved_markdown": "reference_post_domains-domain-users-user-meetings_9af5279308aa19fd.md",
+      "saved_json": "reference_post_domains-domain-users-user-meetings_9af5279308aa19fd.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/updateaddressfordomain",
+      "title": "Update Address for Domain",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Update Address for Domain"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2335,
+      "saved_html": "reference_updateaddressfordomain_6360b0c8522be51d.html",
+      "saved_markdown": "reference_updateaddressfordomain_6360b0c8522be51d.md",
+      "saved_json": "reference_updateaddressfordomain_6360b0c8522be51d.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/readsubscription",
+      "title": "Read Event Subscription By Id",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Read Event Subscription By Id"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2336,
+      "saved_html": "reference_readsubscription_8f969e89896584d7.html",
+      "saved_markdown": "reference_readsubscription_8f969e89896584d7.md",
+      "saved_json": "reference_readsubscription_8f969e89896584d7.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/updateaddressforuser",
+      "title": "Update Address for User",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Update Address for User"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2337,
+      "saved_html": "reference_updateaddressforuser_28b970847b024149.html",
+      "saved_markdown": "reference_updateaddressforuser_28b970847b024149.md",
+      "saved_json": "reference_updateaddressforuser_28b970847b024149.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/getsupportedmodels",
+      "title": "Get list of Supported/Provisionable Models",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Get list of Supported/Provisionable Models"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2335,
+      "saved_html": "reference_getsupportedmodels_1c01b9786b7f28af.html",
+      "saved_markdown": "reference_getsupportedmodels_1c01b9786b7f28af.md",
+      "saved_json": "reference_getsupportedmodels_1c01b9786b7f28af.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/getsmsnumbersfordomain",
+      "title": "Get SMS Numbers for Domain",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Get SMS Numbers for Domain"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2337,
+      "saved_html": "reference_getsmsnumbersfordomain_2201689d2285b30e.html",
+      "saved_markdown": "reference_getsmsnumbersfordomain_2201689d2285b30e.md",
+      "saved_json": "reference_getsmsnumbersfordomain_2201689d2285b30e.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/startsession",
+      "title": "Start a new Message Session",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Start a new Message Session"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2358,
+      "saved_html": "reference_startsession_2cada53f1fc78d33.html",
+      "saved_markdown": "reference_startsession_2cada53f1fc78d33.md",
+      "saved_json": "reference_startsession_2cada53f1fc78d33.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/readspecificconfiguration",
+      "title": "Read a Specific Configuration",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Read a Specific Configuration"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2333,
+      "saved_html": "reference_readspecificconfiguration_24142dcb85d29da2.html",
+      "saved_markdown": "reference_readspecificconfiguration_24142dcb85d29da2.md",
+      "saved_json": "reference_readspecificconfiguration_24142dcb85d29da2.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/readmsgdomain",
+      "title": "Read Hold Messages for Domain",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Read Hold Messages for Domain"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2337,
+      "saved_html": "reference_readmsgdomain_ef3889871e6d5ff5.html",
+      "saved_markdown": "reference_readmsgdomain_ef3889871e6d5ff5.md",
+      "saved_json": "reference_readmsgdomain_ef3889871e6d5ff5.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/updatephonenumberoffnet",
+      "title": "Send Phonenumber to Offnet Number",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Send Phonenumber to Offnet Number"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2372,
+      "saved_html": "reference_updatephonenumberoffnet_3d6517f583fb106b.html",
+      "saved_markdown": "reference_updatephonenumberoffnet_3d6517f583fb106b.md",
+      "saved_json": "reference_updatephonenumberoffnet_3d6517f583fb106b.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/deleteaddressendpoint",
+      "title": "Delete Address Endpoint",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Delete Address Endpoint"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2332,
+      "saved_html": "reference_deleteaddressendpoint_03fd178493be9089.html",
+      "saved_markdown": "reference_deleteaddressendpoint_03fd178493be9089.md",
+      "saved_json": "reference_deleteaddressendpoint_03fd178493be9089.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/updatemsguserfileupload",
+      "title": "Update Hold Messge for User from Upload (Multipart/Mixed Post)",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Update Hold Messge for User from Upload (Multipart/Mixed Post)"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2352,
+      "saved_html": "reference_updatemsguserfileupload_c927a494d7e1f3a1.html",
+      "saved_markdown": "reference_updatemsguserfileupload_c927a494d7e1f3a1.md",
+      "saved_json": "reference_updatemsguserfileupload_c927a494d7e1f3a1.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/createaddressforuser",
+      "title": "Create Address for User",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Create Address for User"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2336,
+      "saved_html": "reference_createaddressforuser_c63cc2f6bc27130e.html",
+      "saved_markdown": "reference_createaddressforuser_c63cc2f6bc27130e.md",
+      "saved_json": "reference_createaddressforuser_c63cc2f6bc27130e.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/createaddressendpoint",
+      "title": "Create Address Endpoint",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Create Address Endpoint"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2331,
+      "saved_html": "reference_createaddressendpoint_8cf9cd883d35541a.html",
+      "saved_markdown": "reference_createaddressendpoint_8cf9cd883d35541a.md",
+      "saved_json": "reference_createaddressendpoint_8cf9cd883d35541a.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/createtemplatebase64",
+      "title": "Create Template from Upload (JSON + Base64 File)",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Create Template from Upload (JSON + Base64 File)"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2349,
+      "saved_html": "reference_createtemplatebase64_65e406b438bce301.html",
+      "saved_markdown": "reference_createtemplatebase64_65e406b438bce301.md",
+      "saved_json": "reference_createtemplatebase64_65e406b438bce301.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/getaddressesfordomain",
+      "title": "Get Addresses for Domain",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Get Addresses for Domain"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2334,
+      "saved_html": "reference_getaddressesfordomain_558e8248b91ec607.html",
+      "saved_markdown": "reference_getaddressesfordomain_558e8248b91ec607.md",
+      "saved_json": "reference_getaddressesfordomain_558e8248b91ec607.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/readdialrules",
+      "title": "Read Dialrules in a Dialplan",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Read Dialrules in a Dialplan"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2339,
+      "saved_html": "reference_readdialrules_2614ea4728541ff8.html",
+      "saved_markdown": "reference_readdialrules_2614ea4728541ff8.md",
+      "saved_json": "reference_readdialrules_2614ea4728541ff8.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/createagent",
+      "title": "Add Agent to Call Queue",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Add Agent to Call Queue"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2339,
+      "saved_html": "reference_createagent_da0e2d5df268d955.html",
+      "saved_markdown": "reference_createagent_da0e2d5df268d955.md",
+      "saved_json": "reference_createagent_da0e2d5df268d955.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/savevoicemail",
+      "title": "Move Voicemail to save folder",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Move Voicemail to save folder"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2343,
+      "saved_html": "reference_savevoicemail_5cbd530af8bcfd1c.html",
+      "saved_markdown": "reference_savevoicemail_5cbd530af8bcfd1c.md",
+      "saved_json": "reference_savevoicemail_5cbd530af8bcfd1c.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/readimage",
+      "title": "Read Image",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Read Image"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2331,
+      "saved_html": "reference_readimage_ceb25a4cbfa6cb6f.html",
+      "saved_markdown": "reference_readimage_ceb25a4cbfa6cb6f.md",
+      "saved_json": "reference_readimage_ceb25a4cbfa6cb6f.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/createdomain",
+      "title": "Create a Domain",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Create a Domain"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2392,
+      "saved_html": "reference_createdomain_13485403eab19157.html",
+      "saved_markdown": "reference_createdomain_13485403eab19157.md",
+      "saved_json": "reference_createdomain_13485403eab19157.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/put_domains-domain-users-user-answerrules-reorder",
+      "title": "Reorder Answerrules for my User",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Reorder Answerrules for my User"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2382,
+      "saved_html": "reference_put_domains-domain-users-user-answerrules-reorder_ad468eaddcf0bad9.html",
+      "saved_markdown": "reference_put_domains-domain-users-user-answerrules-reorder_ad468eaddcf0bad9.md",
+      "saved_json": "reference_put_domains-domain-users-user-answerrules-reorder_ad468eaddcf0bad9.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/get_holidays-countries",
+      "title": "Read List of Supported Countries",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Read List of Supported Countries"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2349,
+      "saved_html": "reference_get_holidays-countries_740cdccb0d4aaab9.html",
+      "saved_markdown": "reference_get_holidays-countries_740cdccb0d4aaab9.md",
+      "saved_json": "reference_get_holidays-countries_740cdccb0d4aaab9.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/post_domains-domain-timeframes-id",
+      "title": "Create Additional Date Ranges within Specific Dates Timeframe",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Create Additional Date Ranges within Specific Dates Timeframe"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2377,
+      "saved_html": "reference_post_domains-domain-timeframes-id_49b3dc50201438cf.html",
+      "saved_markdown": "reference_post_domains-domain-timeframes-id_49b3dc50201438cf.md",
+      "saved_json": "reference_post_domains-domain-timeframes-id_49b3dc50201438cf.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/post_domains-domain-users-user-meetings-id",
+      "title": "Create a Meeting with Id",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Create a Meeting with Id"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2350,
+      "saved_html": "reference_post_domains-domain-users-user-meetings-id_5827ab0bdb248683.html",
+      "saved_markdown": "reference_post_domains-domain-users-user-meetings-id_5827ab0bdb248683.md",
+      "saved_json": "reference_post_domains-domain-users-user-meetings-id_5827ab0bdb248683.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/post_domains-domain-users-user-timeframes-id-1",
+      "title": "Create Additional Holidays within Holiday Timeframe",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Create Additional Holidays within Holiday Timeframe"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2371,
+      "saved_html": "reference_post_domains-domain-users-user-timeframes-id-1_0e8b5608a75d55f5.html",
+      "saved_markdown": "reference_post_domains-domain-users-user-timeframes-id-1_0e8b5608a75d55f5.md",
+      "saved_json": "reference_post_domains-domain-users-user-timeframes-id-1_0e8b5608a75d55f5.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/get_domains-domain-phones",
+      "title": "Read Mac Addresses in Domain",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Read Mac Addresses in Domain"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2337,
+      "saved_html": "reference_get_domains-domain-phones_4569173bf140c3f6.html",
+      "saved_markdown": "reference_get_domains-domain-phones_4569173bf140c3f6.md",
+      "saved_json": "reference_get_domains-domain-phones_4569173bf140c3f6.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/updatemohuserbase64",
+      "title": "Update MOH for User from Upload (JSON + Base64 File)",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Update MOH for User from Upload (JSON + Base64 File)"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2374,
+      "saved_html": "reference_updatemohuserbase64_33b60976bc78bee6.html",
+      "saved_markdown": "reference_updatemohuserbase64_33b60976bc78bee6.md",
+      "saved_json": "reference_updatemohuserbase64_33b60976bc78bee6.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/updatephonenumberuser",
+      "title": "Send Phonenumber to a User",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Send Phonenumber to a User"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2349,
+      "saved_html": "reference_updatephonenumberuser_101877c7ff06b104.html",
+      "saved_markdown": "reference_updatephonenumberuser_101877c7ff06b104.md",
+      "saved_json": "reference_updatephonenumberuser_101877c7ff06b104.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/get_domains-domain-users-user-meetings-count",
+      "title": "Count Domains Meetings",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Count Domains Meetings"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2333,
+      "saved_html": "reference_get_domains-domain-users-user-meetings-count_7ea9a08845c1af0d.html",
+      "saved_markdown": "reference_get_domains-domain-users-user-meetings-count_7ea9a08845c1af0d.md",
+      "saved_json": "reference_get_domains-domain-users-user-meetings-count_7ea9a08845c1af0d.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/get_domains-domain-number-filters",
+      "title": "Read blocked numbers for a Domain",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Read blocked numbers for a Domain"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2340,
+      "saved_html": "reference_get_domains-domain-number-filters_73cf1cf607ba87aa.html",
+      "saved_markdown": "reference_get_domains-domain-number-filters_73cf1cf607ba87aa.md",
+      "saved_json": "reference_get_domains-domain-number-filters_73cf1cf607ba87aa.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/agentstatus",
+      "title": "Agent Set Offline Status",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Agent Set Offline Status"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2337,
+      "saved_html": "reference_agentstatus_75f63e45d398542a.html",
+      "saved_markdown": "reference_agentstatus_75f63e45d398542a.md",
+      "saved_json": "reference_agentstatus_75f63e45d398542a.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/get_jwt",
+      "title": "Read Current JWT",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Read Current JWT"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2329,
+      "saved_html": "reference_get_jwt_3fa3848d7fb8d97d.html",
+      "saved_markdown": "reference_get_jwt_3fa3848d7fb8d97d.md",
+      "saved_json": "reference_get_jwt_3fa3848d7fb8d97d.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/deleteimage",
+      "title": "Delete an Image",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Delete an Image"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2334,
+      "saved_html": "reference_deleteimage_cac643178a3aaaae.html",
+      "saved_markdown": "reference_deleteimage_cac643178a3aaaae.md",
+      "saved_json": "reference_deleteimage_cac643178a3aaaae.json"
+    },
+    {
+      "url": "https://docs.ns-api.com/reference/createmohuserbase64",
+      "title": "Create a new MOH for User from Upload (JSON + Base64 File)",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Create a new MOH for User from Upload (JSON + Base64 File)"
+        },
+        {
+          "level": 2,
+          "text": "NetSapiens API v2"
+        },
+        {
+          "level": 6,
+          "text": "Start typing to search\u2026"
+        }
+      ],
+      "code_blocks_count": 1,
+      "word_count": 2378,
+      "saved_html": "reference_createmohuserbase64_f8ac8d8aa826534d.html",
+      "saved_markdown": "reference_createmohuserbase64_f8ac8d8aa826534d.md",
+      "saved_json": "reference_createmohuserbase64_f8ac8d8aa826534d.json"
+    }
+  ],
+  "generated_at": "2025-11-08T02:09:31Z"
+}

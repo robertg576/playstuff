@@ -1,0 +1,23 @@
+{
+  "url": "https://docs.ns-api.com/reference/post_backup",
+  "title": "Request a Full System backup",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Request a Full System backup"
+    },
+    {
+      "level": 2,
+      "text": "NetSapiens API v2"
+    },
+    {
+      "level": 6,
+      "text": "Start typing to search\u2026"
+    }
+  ],
+  "code_blocks_count": 1,
+  "word_count": 2335,
+  "saved_html": "reference_post_backup_17748a09d177aadc.html",
+  "saved_markdown": "reference_post_backup_17748a09d177aadc.md",
+  "saved_json": "reference_post_backup_17748a09d177aadc.json"
+}

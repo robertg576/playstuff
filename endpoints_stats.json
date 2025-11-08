@@ -1,0 +1,13 @@
+{
+  "total_endpoints": 30,
+  "phones_rows": 2,
+  "numbers_rows": 2,
+  "domains_rows": 20,
+  "users_rows": 10,
+  "json": "/opt/ns-clearip-sync/state/ns_api_docs/endpoints_all.json",
+  "csv": "/opt/ns-clearip-sync/state/ns_api_docs/endpoints_all.csv",
+  "phones_csv": "/opt/ns-clearip-sync/state/ns_api_docs/endpoints_phones.csv",
+  "numbers_csv": "/opt/ns-clearip-sync/state/ns_api_docs/endpoints_numbers.csv",
+  "domains_csv": "/opt/ns-clearip-sync/state/ns_api_docs/endpoints_domains.csv",
+  "users_csv": "/opt/ns-clearip-sync/state/ns_api_docs/endpoints_users.csv"
+}

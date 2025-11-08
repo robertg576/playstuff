@@ -1,0 +1,23 @@
+{
+  "url": "https://docs.ns-api.com/reference/creategreetingfileupload",
+  "title": "Create a new Greeting from Upload (Multipart/Mixed Post)",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Create a new Greeting from Upload (Multipart/Mixed Post)"
+    },
+    {
+      "level": 2,
+      "text": "NetSapiens API v2"
+    },
+    {
+      "level": 6,
+      "text": "Start typing to search\u2026"
+    }
+  ],
+  "code_blocks_count": 1,
+  "word_count": 2366,
+  "saved_html": "reference_creategreetingfileupload_a617c530fff3f328.html",
+  "saved_markdown": "reference_creategreetingfileupload_a617c530fff3f328.md",
+  "saved_json": "reference_creategreetingfileupload_a617c530fff3f328.json"
+}

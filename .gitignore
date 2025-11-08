@@ -1,0 +1,11 @@
+# Editor & OS junk
+*.swp
+*.tmp
+*.DS_Store
+
+# Keep the repo small: skip raw HTML (very large).
+# We will upload them as a separate tarball release asset if GITHUB_TOKEN is set.
+*.html
+
+# Skip local tarballs by default; we generate one in /opt/ns-clearip-sync/state/
+*.tar.gz

@@ -1,0 +1,23 @@
+{
+  "url": "https://docs.ns-api.com/reference/get_version",
+  "title": "Read API Version",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Read API Version"
+    },
+    {
+      "level": 2,
+      "text": "NetSapiens API v2"
+    },
+    {
+      "level": 6,
+      "text": "Start typing to search\u2026"
+    }
+  ],
+  "code_blocks_count": 1,
+  "word_count": 2326,
+  "saved_html": "reference_get_version_c6196b4b87ce361a.html",
+  "saved_markdown": "reference_get_version_c6196b4b87ce361a.md",
+  "saved_json": "reference_get_version_c6196b4b87ce361a.json"
+}

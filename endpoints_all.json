@@ -1,0 +1,306 @@
+{
+  "generated_at": "2025-11-08T02:41:45Z",
+  "count": 30,
+  "endpoints": [
+    {
+      "method": "GET",
+      "path": "/ns-api/v2/domains/{domain}/users/{user}/contacts/contact/id",
+      "title": "reference_get_domains-domain-users-user-contacts-contact-id_34ea988e36c9cc20",
+      "file": "reference_get_domains-domain-users-user-contacts-contact-id_34ea988e36c9cc20.md",
+      "source": "filename",
+      "group": "domains",
+      "score": 69,
+      "id": "95f48f43d4fb983f"
+    },
+    {
+      "method": "GET",
+      "path": "/ns-api/v2/domains/{domain}/users/{user}/meetings/count",
+      "title": "reference_get_domains-domain-users-user-meetings-count_7ea9a08845c1af0d",
+      "file": "reference_get_domains-domain-users-user-meetings-count_7ea9a08845c1af0d.md",
+      "source": "filename",
+      "group": "domains",
+      "score": 67,
+      "id": "2efd18cf0f4a08b8"
+    },
+    {
+      "method": "GET",
+      "path": "/ns-api/v2/domains/{domain}/users/{user}/number/filters",
+      "title": "reference_get_domains-domain-users-user-number-filters_3f2200f19271b212",
+      "file": "reference_get_domains-domain-users-user-number-filters_3f2200f19271b212.md",
+      "source": "filename",
+      "group": "numbers",
+      "score": 67,
+      "id": "54fd904a0f217faa"
+    },
+    {
+      "method": "POST",
+      "path": "/ns-api/v2/domains/{domain}/users/{user}/meetings/id",
+      "title": "reference_post_domains-domain-users-user-meetings-id_5827ab0bdb248683",
+      "file": "reference_post_domains-domain-users-user-meetings-id_5827ab0bdb248683.md",
+      "source": "filename",
+      "group": "domains",
+      "score": 67,
+      "id": "a9ef8f5e473c0b03"
+    },
+    {
+      "method": "POST",
+      "path": "/ns-api/v2/domains/{domain}/users/{user}/meetings",
+      "title": "reference_post_domains-domain-users-user-meetings_9af5279308aa19fd",
+      "file": "reference_post_domains-domain-users-user-meetings_9af5279308aa19fd.md",
+      "source": "filename",
+      "group": "domains",
+      "score": 66,
+      "id": "31b2bf057575d905"
+    },
+    {
+      "method": "GET",
+      "path": "/ns-api/v2/domains/{domain}/number/filters",
+      "title": "reference_get_domains-domain-number-filters_73cf1cf607ba87aa",
+      "file": "reference_get_domains-domain-number-filters_73cf1cf607ba87aa.md",
+      "source": "filename",
+      "group": "numbers",
+      "score": 65,
+      "id": "89d2eaa5f1a6269a"
+    },
+    {
+      "method": "GET",
+      "path": "/ns-api/v2/domains/{domain}/users/{user}/video",
+      "title": "reference_get_domains-domain-users-user-video_5872d0022eaacf6a",
+      "file": "reference_get_domains-domain-users-user-video_5872d0022eaacf6a.md",
+      "source": "filename",
+      "group": "domains",
+      "score": 65,
+      "id": "b3e032d9f8b0146f"
+    },
+    {
+      "method": "POST",
+      "path": "/ns-api/v2/domains/{domain}/timeframes/id",
+      "title": "Create Additional Date Ranges within Specific Dates Timeframe",
+      "file": "reference_post_domains-domain-timeframes-id_49b3dc50201438cf.html",
+      "source": "filename",
+      "group": "domains",
+      "score": 65,
+      "id": "a65a1041dee5d3b2"
+    },
+    {
+      "method": "GET",
+      "path": "/ns-api/v2/domains/{domain}/cdrs/count",
+      "title": "reference_get_domains-domain-cdrs-count_41d2bf0746583480",
+      "file": "reference_get_domains-domain-cdrs-count_41d2bf0746583480.md",
+      "source": "filename",
+      "group": "domains",
+      "score": 64,
+      "id": "f7bfa22e7e192748"
+    },
+    {
+      "method": "GET",
+      "path": "/ns-api/v2/domains/{domain}/timeframes",
+      "title": "reference_get_domains-domain-timeframes_630385dd56392b38",
+      "file": "reference_get_domains-domain-timeframes_630385dd56392b38.md",
+      "source": "filename",
+      "group": "domains",
+      "score": 64,
+      "id": "6664708f50bc4872"
+    },
+    {
+      "method": "GET",
+      "path": "/ns-api/v2/domains/{domain}/cdrs/1",
+      "title": "reference_get_domains-domain-cdrs-1_38732fa31403cb1e",
+      "file": "reference_get_domains-domain-cdrs-1_38732fa31403cb1e.md",
+      "source": "filename",
+      "group": "domains",
+      "score": 63,
+      "id": "db730b881fb59b55"
+    },
+    {
+      "method": "GET",
+      "path": "/ns-api/v2/domains/{domain}/phones",
+      "title": "reference_get_domains-domain-phones_4569173bf140c3f6",
+      "file": "reference_get_domains-domain-phones_4569173bf140c3f6.md",
+      "source": "filename",
+      "group": "phones",
+      "score": 63,
+      "id": "3e09865ecbb95212"
+    },
+    {
+      "method": "POST",
+      "path": "/ns-api/v2/domains/{domain}/backup",
+      "title": "reference_post_domains-domain-backup_e560eb1b00439b14",
+      "file": "reference_post_domains-domain-backup_e560eb1b00439b14.md",
+      "source": "filename",
+      "group": "domains",
+      "score": 63,
+      "id": "0727db6fa8ab4660"
+    },
+    {
+      "method": "GET",
+      "path": "/ns-api/v2/certificates/name",
+      "title": "reference_get_certificates-name_96cf259f199bb17a",
+      "file": "reference_get_certificates-name_96cf259f199bb17a.md",
+      "source": "filename",
+      "group": "other",
+      "score": 62,
+      "id": "dd92e98bf60600c3"
+    },
+    {
+      "method": "POST",
+      "path": "/ns-api/v2/domains/{domain}/timeframes/id/1",
+      "title": "Create Additional Holidays within Holiday Timeframe",
+      "file": "reference_post_domains-domain-timeframes-id-1_11dbf9761a462050.html",
+      "source": "filename",
+      "group": "domains",
+      "score": 62,
+      "id": "7b09a5cc2a2c4c8b"
+    },
+    {
+      "method": "POST",
+      "path": "/ns-api/v2/domains/{domain}/users/{user}/timeframes/id/1",
+      "title": "Create Additional Holidays within Holiday Timeframe",
+      "file": "reference_post_domains-domain-users-user-timeframes-id-1_0e8b5608a75d55f5.html",
+      "source": "filename",
+      "group": "domains",
+      "score": 62,
+      "id": "33f0fdbea48f5adf"
+    },
+    {
+      "method": "POST",
+      "path": "/ns-api/v2/domains/{domain}/users/{user}/timeframes/id/2",
+      "title": "Create Additional Entries within Custom Timeframe",
+      "file": "reference_post_domains-domain-users-user-timeframes-id-2_1dd234ff3b656782.md",
+      "source": "filename",
+      "group": "domains",
+      "score": 62,
+      "id": "060687b0447b91e9"
+    },
+    {
+      "method": "PUT",
+      "path": "/ns-api/v2/domains/{domain}/users/{user}/timeframes/id",
+      "title": "Replace All Date Ranges in Specific Dates Timeframe",
+      "file": "reference_put_domains-domain-users-user-timeframes-id_194fb8ed67570880.md",
+      "source": "filename",
+      "group": "domains",
+      "score": 62,
+      "id": "7e005e9075e75897"
+    },
+    {
+      "method": "DELETE",
+      "path": "/ns-api/v2/domains/{domain}/timeframes/id/3",
+      "title": "Delete Specific Timeframe for Domain (Shared)",
+      "file": "reference_delete_domains-domain-timeframes-id-3_925b77f0b5b1bce0.md",
+      "source": "filename",
+      "group": "domains",
+      "score": 61,
+      "id": "6756e2ab131ff9e6"
+    },
+    {
+      "method": "GET",
+      "path": "/ns-api/v2/cdrs/count",
+      "title": "reference_get_cdrs-count_e1b7fd87718f34e8",
+      "file": "reference_get_cdrs-count_e1b7fd87718f34e8.md",
+      "source": "filename",
+      "group": "cdr",
+      "score": 60,
+      "id": "bd83fe2a38c4b601"
+    },
+    {
+      "method": "GET",
+      "path": "/ns-api/v2/phones/mac",
+      "title": "reference_get_phones-mac_ed286e524d0a3c18",
+      "file": "reference_get_phones-mac_ed286e524d0a3c18.md",
+      "source": "filename",
+      "group": "phones",
+      "score": 60,
+      "id": "8f2950058b07f27a"
+    },
+    {
+      "method": "POST",
+      "path": "/ns-api/v2/tokens/1",
+      "title": "reference_post_tokens-1_f75dde34e0f819f9",
+      "file": "reference_post_tokens-1_f75dde34e0f819f9.md",
+      "source": "filename",
+      "group": "other",
+      "score": 60,
+      "id": "5600c5dfec7393bf"
+    },
+    {
+      "method": "DELETE",
+      "path": "/ns-api/v2/domains/{domain}/timeframes/id/2",
+      "title": "Delete Entry within Custom Timeframe",
+      "file": "reference_delete_domains-domain-timeframes-id-2_374b5c73308eec81.md",
+      "source": "filename",
+      "group": "domains",
+      "score": 59,
+      "id": "8379fc4b5e83240f"
+    },
+    {
+      "method": "GET",
+      "path": "/ns-api/v2/routecon",
+      "title": "reference_get_routecon_375397e7ea534a26",
+      "file": "reference_get_routecon_375397e7ea534a26.md",
+      "source": "filename",
+      "group": "other",
+      "score": 59,
+      "id": "84a739c1390be9d7"
+    },
+    {
+      "method": "GET",
+      "path": "/ns-api/v2/version",
+      "title": "reference_get_version_c6196b4b87ce361a",
+      "file": "reference_get_version_c6196b4b87ce361a.md",
+      "source": "filename",
+      "group": "other",
+      "score": 59,
+      "id": "07cacc5a60265f38"
+    },
+    {
+      "method": "POST",
+      "path": "/ns-api/v2/backup",
+      "title": "reference_post_backup_17748a09d177aadc",
+      "file": "reference_post_backup_17748a09d177aadc.md",
+      "source": "filename",
+      "group": "other",
+      "score": 59,
+      "id": "d46a0681872f806c"
+    },
+    {
+      "method": "GET",
+      "path": "/ns-api/v2/cdrs",
+      "title": "reference_get_cdrs_8f1be6e4d5473438",
+      "file": "reference_get_cdrs_8f1be6e4d5473438.md",
+      "source": "filename",
+      "group": "cdr",
+      "score": 58,
+      "id": "19e86828b69e3861"
+    },
+    {
+      "method": "GET",
+      "path": "/ns-api/v2/holidays/countries",
+      "title": "Read List of Supported Countries",
+      "file": "reference_get_holidays-countries_740cdccb0d4aaab9.html",
+      "source": "filename",
+      "group": "other",
+      "score": 58,
+      "id": "fd146b2c03ea6c4a"
+    },
+    {
+      "method": "GET",
+      "path": "/ns-api/v2/jwt",
+      "title": "reference_get_jwt_3fa3848d7fb8d97d",
+      "file": "reference_get_jwt_3fa3848d7fb8d97d.md",
+      "source": "filename",
+      "group": "other",
+      "score": 58,
+      "id": "6a088fac9d6da947"
+    },
+    {
+      "method": "PUT",
+      "path": "/ns-api/v2/domains/{domain}/users/{user}/answerrules/reorder",
+      "title": "Reorder Answerrules for my User",
+      "file": "reference_put_domains-domain-users-user-answerrules-reorder_ad468eaddcf0bad9.html",
+      "source": "filename",
+      "group": "domains",
+      "score": 57,
+      "id": "5fbb349739695d63"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://docs.ns-api.com/reference/readdialrules",
+  "title": "Read Dialrules in a Dialplan",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Read Dialrules in a Dialplan"
+    },
+    {
+      "level": 2,
+      "text": "NetSapiens API v2"
+    },
+    {
+      "level": 6,
+      "text": "Start typing to search\u2026"
+    }
+  ],
+  "code_blocks_count": 1,
+  "word_count": 2339,
+  "saved_html": "reference_readdialrules_2614ea4728541ff8.html",
+  "saved_markdown": "reference_readdialrules_2614ea4728541ff8.md",
+  "saved_json": "reference_readdialrules_2614ea4728541ff8.json"
+}

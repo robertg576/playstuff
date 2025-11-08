@@ -1,0 +1,23 @@
+{
+  "url": "https://docs.ns-api.com/reference/get_jwt",
+  "title": "Read Current JWT",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Read Current JWT"
+    },
+    {
+      "level": 2,
+      "text": "NetSapiens API v2"
+    },
+    {
+      "level": 6,
+      "text": "Start typing to search\u2026"
+    }
+  ],
+  "code_blocks_count": 1,
+  "word_count": 2329,
+  "saved_html": "reference_get_jwt_3fa3848d7fb8d97d.html",
+  "saved_markdown": "reference_get_jwt_3fa3848d7fb8d97d.md",
+  "saved_json": "reference_get_jwt_3fa3848d7fb8d97d.json"
+}

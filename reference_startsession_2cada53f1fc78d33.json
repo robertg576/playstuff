@@ -1,0 +1,23 @@
+{
+  "url": "https://docs.ns-api.com/reference/startsession",
+  "title": "Start a new Message Session",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Start a new Message Session"
+    },
+    {
+      "level": 2,
+      "text": "NetSapiens API v2"
+    },
+    {
+      "level": 6,
+      "text": "Start typing to search\u2026"
+    }
+  ],
+  "code_blocks_count": 1,
+  "word_count": 2358,
+  "saved_html": "reference_startsession_2cada53f1fc78d33.html",
+  "saved_markdown": "reference_startsession_2cada53f1fc78d33.md",
+  "saved_json": "reference_startsession_2cada53f1fc78d33.json"
+}

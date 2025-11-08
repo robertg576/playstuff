@@ -1,0 +1,23 @@
+{
+  "url": "https://docs.ns-api.com/reference/get_holidays-countries",
+  "title": "Read List of Supported Countries",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Read List of Supported Countries"
+    },
+    {
+      "level": 2,
+      "text": "NetSapiens API v2"
+    },
+    {
+      "level": 6,
+      "text": "Start typing to search\u2026"
+    }
+  ],
+  "code_blocks_count": 1,
+  "word_count": 2349,
+  "saved_html": "reference_get_holidays-countries_740cdccb0d4aaab9.html",
+  "saved_markdown": "reference_get_holidays-countries_740cdccb0d4aaab9.md",
+  "saved_json": "reference_get_holidays-countries_740cdccb0d4aaab9.json"
+}

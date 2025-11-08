@@ -1,0 +1,23 @@
+{
+  "url": "https://docs.ns-api.com/reference/get_domains-domain-users-user-meetings-count",
+  "title": "Count Domains Meetings",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Count Domains Meetings"
+    },
+    {
+      "level": 2,
+      "text": "NetSapiens API v2"
+    },
+    {
+      "level": 6,
+      "text": "Start typing to search\u2026"
+    }
+  ],
+  "code_blocks_count": 1,
+  "word_count": 2333,
+  "saved_html": "reference_get_domains-domain-users-user-meetings-count_7ea9a08845c1af0d.html",
+  "saved_markdown": "reference_get_domains-domain-users-user-meetings-count_7ea9a08845c1af0d.md",
+  "saved_json": "reference_get_domains-domain-users-user-meetings-count_7ea9a08845c1af0d.json"
+}

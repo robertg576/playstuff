@@ -1,0 +1,23 @@
+{
+  "url": "https://docs.ns-api.com/reference/get_domains-domain-cdrs-1",
+  "title": "Read CDRs for Site in Domain",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Read CDRs for Site in Domain"
+    },
+    {
+      "level": 2,
+      "text": "NetSapiens API v2"
+    },
+    {
+      "level": 6,
+      "text": "Start typing to search\u2026"
+    }
+  ],
+  "code_blocks_count": 1,
+  "word_count": 2340,
+  "saved_html": "reference_get_domains-domain-cdrs-1_38732fa31403cb1e.html",
+  "saved_markdown": "reference_get_domains-domain-cdrs-1_38732fa31403cb1e.md",
+  "saved_json": "reference_get_domains-domain-cdrs-1_38732fa31403cb1e.json"
+}

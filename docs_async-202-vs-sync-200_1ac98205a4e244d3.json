@@ -1,0 +1,31 @@
+{
+  "url": "https://docs.ns-api.com/docs/async-202-vs-sync-200",
+  "title": "Async (202) vs. Sync (200)",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Async (202) vs. Sync (200)"
+    },
+    {
+      "level": 2,
+      "text": "Authentication"
+    },
+    {
+      "level": 2,
+      "text": "Guides"
+    },
+    {
+      "level": 4,
+      "text": "Current list of supported \"Create\" actions"
+    },
+    {
+      "level": 6,
+      "text": "Start typing to search\u2026"
+    }
+  ],
+  "code_blocks_count": 0,
+  "word_count": 301,
+  "saved_html": "docs_async-202-vs-sync-200_1ac98205a4e244d3.html",
+  "saved_markdown": "docs_async-202-vs-sync-200_1ac98205a4e244d3.md",
+  "saved_json": "docs_async-202-vs-sync-200_1ac98205a4e244d3.json"
+}
